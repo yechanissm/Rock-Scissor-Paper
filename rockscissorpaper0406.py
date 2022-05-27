@@ -50,5 +50,7 @@ else :
   elif computer == my:
     print("It's a draw")
 
+    sdfajhladssadf
+
 
 
